@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Common USB-Serial chips (FTDI, CP210X, CH340, Prolific) -->
+    <usb-device vendor-id="1027" /> <!-- FTDI -->
+    <usb-device vendor-id="4292" /> <!-- CP210x -->
+    <usb-device vendor-id="6790" /> <!-- CH34x -->
+    <usb-device vendor-id="1659" /> <!-- Prolific -->
+</resources>
